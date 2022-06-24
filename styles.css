@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Hind+Siliguri:wght@500&display=swap');
+
+#title{
+    color: #9c2400;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-div {
+
+    padding: 10px;
+    margin: 0;
+}
+#tribute-info{
+    background-color: #99d98c;
+    padding: 10px;
+}
+strong{
+    color: #022B3A;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+#main {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bolder;
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #d9ed92;
+    
+    color: #32161F;
+
+}
+footer{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: gray;
+    font-size: small;
+}
+
